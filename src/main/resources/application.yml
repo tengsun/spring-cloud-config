@@ -7,3 +7,5 @@ spring:
       server:
         git:
           uri: https://github.com/tengsun/spring-cloud-config-repo
+          search-paths:
+          - /demo-app
